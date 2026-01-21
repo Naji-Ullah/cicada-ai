@@ -124,7 +124,3 @@ License
 
 Contact
 - Repo owner: @Naji-Ullah
-
---
-
-This README was generated based on repository contents (frontend README and docker-compose.yml) and a quick scan of backend Django settings and frontend scripts. Please review and edit any environment values, ports, or instructions to match your intended deployment or local development workflow.
